@@ -1,12 +1,12 @@
-# DEV25-G00-P1
-Repositorio creado por Federico Peinado en base al proyecto anterior SuperCastle.
+# DEV25-G00-P2
+Repositorio creado por Federico Peinado en base al repositorio anterior DEV25-G00-P1
 El código y los recursos que no son de terceros, se distribuyen bajo la licencia LGPL.
 
 ## Descripción
-Se trata de un prototipo básico de videojuego de plataformas 3D para Unreal Engine 5.6 en el que controlamos a un personaje que debe alcanzar un trofeo en lo alto de un castillo, teniendo que superar para ello varias pruebas.
+Se trata de un prototipo básico de videojuego de puzles 3D para Unreal Engine 5.6 en el que controlamos a un personaje aprendiz de mago que debe realizar una serie de tareas domésticas, usando la magia, para conseguir sacos de harina para su maestro. 
 
 ## Punto de partida
-El punto de partida de este proyecto es la plantilla ThirdPerson con variante Platforming. 
+El punto de partida de este proyecto es la plantilla TopDown sin variantes. 
 
 ## Instalación y uso
 Los ficheros más importantes del proyecto están disponible en este repositorio, aunque algunos ficheros binarios potencialmente grandes están en el almacén GitHub LFS asociado, y por lo tanto se requiere tener activa la extensión Git LFS cuando lo descarguemos con GitHub Desktop o similar. 
@@ -26,6 +26,7 @@ OPCIONAL:
 Para facilitar esta descarga podemos crear un fichero de PowerShell que haga ese trabajo con nosotros: en bucle empezar a descargar uno a uno los ficheros ZIP del contenido, a través del ID público de las carpetas compartidas en Google Drive y si no hay carpetas ya con esos nombres dentro de Content, luego descomprimir y volcar cada uno de ellos en la carpeta Content, destruyéndo el fichero ZIP antes de descargar el siguiente.  
 
 Al no estar publicada todavía ninguna versión ejecutable del prototipo, ni enlazado ningún video con las pruebas realizadas, es necesario abrir el proyecto en Unreal Engine y jugarlo desde allí.
+
 
 
 # Contenido copiado de Castle - Base (SIGUE EDITANDO...)
