@@ -48,6 +48,7 @@ Source/SourceNoRepo/
 
 # Recursos que se usan o no en el proyecto, sean nuestros o de terceros, que en ningún caso queremos o podemos publicar en un repositorio público y con poco espacio como GitHub
 Content/Characters/
+Content/Cursor/
 Content/FirstPerson/
 Content/FirstPersonBP/
 Content/Geometry/
