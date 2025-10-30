@@ -18,6 +18,7 @@ Para este proyecto en particular hace falta descargar los ficheros ZIP, que ya i
 * Cursor
 * LevelPrototyping
 * StarterContent
+* StylizedProvencal
 * TopDown
 
 ¡El proyecto ya está listo para ser usado!
